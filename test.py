@@ -1,7 +1,7 @@
 """
 client clode
 @Druft: Haoian Shen
-@Author: Zelan Xiang
+@Author: Zelan Xiang, Haoian Shen
 @Editor: Zelan Xiang
 @GUI_Author: Zelan Xiang
 @DATABASE_Author: Zelan Xiang
