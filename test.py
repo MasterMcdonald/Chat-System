@@ -1,10 +1,6 @@
 """
 client clode
-@Druft: Haoian Shen
-@Author: Zelan Xiang, Haoian Shen
-@Editor: Zelan Xiang
-@GUI_Author: Zelan Xiang
-@DATABASE_Author: Zelan Xiang
+@Zelan Xiang, Haoian Shen
 """
 import socket
 from ScrolledText import ScrolledText
